@@ -312,7 +312,7 @@ h1 span:after {
   height: 40px;
   background: transparent;
   border: 8px solid #8ac78a;
-  border-color: #77a377 transparent transparent transparent;
+  border-color: #77a377 transparent 0 transparent;
   border-radius: 45% 100% 40% 100%;
   transform: rotate(100deg);
 }
